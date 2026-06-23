@@ -1,5 +1,4 @@
 name: Step 0 # Start Exercise
-
 on:
   push:
     branches:
